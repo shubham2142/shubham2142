@@ -1,4 +1,4 @@
-![logo](https://github.com/shubham2142/shubham2142/blob/main/image.webp)
+![logo](https://github.com/shubham2142/shubham2142/blob/main/images.webp)
 <h1 align="center">Hi 👋, I'm Shubham Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*VMmvImch6VU5pc2VktY1uw.gif">
